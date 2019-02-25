@@ -1,0 +1,12 @@
+{
+    "name": "xsl25334/hrv",
+    "authors": [
+        {
+            "name": "xingsonglin",
+            "email": "xinsonglin@itsports.club"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
