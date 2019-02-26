@@ -19,8 +19,6 @@
         "phpunit/phpunit":"*",
         "phpunit/phpunit-mock-objects":"*",
         "qiniu/php-sdk":"*",
-        "aliyuncs/aliyun-dysms-php-sdk":"*",
-        "aliyuncs/aliyun-dysms-msg-php-sdk":"*",
         "doctrine/instantiator":"*",
         "sebastian/comparator":"*",
         "sebastian/diff":"*",
