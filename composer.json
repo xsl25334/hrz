@@ -8,13 +8,38 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "composer/installers":"~1.0"
+        "composer/installers":"~1.0",
+        "phpmailer/phpmailer":"5.2.14",
+        "phpspec/prophecy":"*",
+        "phpunit/php-code-coverage":"*",
+        "phpunit/php-file-iterator":"*",
+        "phpunit/php-text-template":"*",
+        "phpunit/php-timer":"*",
+        "phpunit/php-token-stream":"*",
+        "phpunit/phpunit":"*",
+        "phpunit/phpunit-mock-objects":"*",
+        "qiniu/php-sdk":"*",
+        "aliyuncs/aliyun-dysms-php-sdk":"*",
+        "aliyuncs/aliyun-dysms-msg-php-sdk":"*",
+        "doctrine/instantiator":"*",
+        "sebastian/comparator":"*",
+        "sebastian/diff":"*",
+        "sebastian/environment":"*",
+        "sebastian/exporter":"*",
+        "sebastian/global-state":"*",
+        "sebastian/recursion-context":"*",
+        "sebastian/version":"*",
+        "symfony/dom-crawler":"*",
+        "symfony/polyfill-mbstring":"*",
+        "symfony/yaml":"*",
+        "phpdocumentor/reflection-docblock":"*",
+        "topthink/think-captcha":"*",
+        "topthink/think-helper":"*",
+        "topthink/think-image":"*",
+        "topthink/think-installer":"*",
+        "topthink/think-testing":"*",
+        "phpqrcode/phpqrcode":"*"
     },
-    "type": "wordpress-plugin",
-    "extra":{
-        "installer-paths":{
-            "vendor/": ["type:wordpress-plugin"]
-        }
-    }
+    "type": "wordpress-plugin"
 
 }
