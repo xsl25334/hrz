@@ -1,5 +1,5 @@
 {
-    "name": "hrz/hrz",
+    "name": "Alidayu/Alidayu",
     "authors": [
         {
             "name": "xingsonglin",
@@ -8,7 +8,6 @@
     ],
     "require": {
         "php": ">=5.4.0"
-    },
-    "type": "wordpress-plugin"
+    }
 
 }
