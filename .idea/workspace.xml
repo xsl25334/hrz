@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ab314e-4613-4397-8161-91d0c630788f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AlibabaAliqinFcSmsNumSendRequest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AlibabaAliqinFcTtsNumSinglecallRequest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AlibabaAliqinFcVoiceNumDoublecallRequest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AlibabaAliqinFcVoiceNumSinglecallRequest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RequestCheckUtil.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ResultSet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TopClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TopLogger.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AlibabaAliqinFcSmsNumSendRequest.php" afterPath="$PROJECT_DIR$/Alidayu/AlibabaAliqinFcSmsNumSendRequest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AlibabaAliqinFcTtsNumSinglecallRequest.php" afterPath="$PROJECT_DIR$/Alidayu/AlibabaAliqinFcTtsNumSinglecallRequest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AlibabaAliqinFcVoiceNumDoublecallRequest.php" afterPath="$PROJECT_DIR$/Alidayu/AlibabaAliqinFcVoiceNumDoublecallRequest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AlibabaAliqinFcVoiceNumSinglecallRequest.php" afterPath="$PROJECT_DIR$/Alidayu/AlibabaAliqinFcVoiceNumSinglecallRequest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/Alidayu/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RequestCheckUtil.php" afterPath="$PROJECT_DIR$/Alidayu/RequestCheckUtil.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ResultSet.php" afterPath="$PROJECT_DIR$/Alidayu/ResultSet.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TopClient.php" afterPath="$PROJECT_DIR$/Alidayu/TopClient.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TopLogger.php" afterPath="$PROJECT_DIR$/Alidayu/TopLogger.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/autoload.php" afterPath="$PROJECT_DIR$/Alidayu/autoload.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/Alidayu/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/Alidayu/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hrv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,6 +53,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alidayu/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-390">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,6 +147,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\hrv\Alidayu" />
       <recent name="C:\hrv" />
     </key>
   </component>
@@ -164,12 +199,12 @@
       <workItem from="1551161136385" duration="2196000" />
       <workItem from="1551170906303" duration="1314000" />
       <workItem from="1551172679593" duration="8083000" />
-      <workItem from="1551255292619" duration="1074000" />
+      <workItem from="1551255292619" duration="1399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13749000" />
+    <option name="totallyTimeSpent" value="14074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1924" height="1048" extended-state="0" />
@@ -181,7 +216,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27815315" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27878103" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -284,6 +319,14 @@
     <entry file="file://$PROJECT_DIR$/topthink/think-installer/composer.json" />
     <entry file="file://$PROJECT_DIR$/topthink/think-testing/composer.json" />
     <entry file="file://$PROJECT_DIR$/phpqrcode/VERSION" />
+    <entry file="file://$PROJECT_DIR$/Alidayu/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
